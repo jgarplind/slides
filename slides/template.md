@@ -4,14 +4,6 @@
 
 ---
 
-Vertical slides are separated by `* * *`
-
----
-
-Go back up using the up arrow
-
----
-
 ## Images
 
 ![alt text](../img/wave.png)
@@ -74,6 +66,6 @@ Quote break.
 
 ---
 
-## made with
+## Made using
 
-#### [reveal.js](https://github.com/hakimel/reveal.js)
+[reveal.js](https://github.com/hakimel/reveal.js)
