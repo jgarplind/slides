@@ -6,7 +6,7 @@
 
 ## Images
 
-![alt text](../img/wave.png)
+![alt text](img/wave.png)
 
 ---
 
@@ -26,19 +26,12 @@ c(3);
 1. First ordered list item
 2. Another item
 
-- Unordered sub-list.
+- Unordered sub-list
 
-1. Actual numbers don't matter, just that it's a number
+1. Actual numbers don't matter
 1. Ordered sub-list
-1. And another item.
 
    Some text that should be aligned with the above item.
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
 
 ---
 
